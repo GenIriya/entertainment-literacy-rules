@@ -31,7 +31,7 @@ Deterministic agent rules for optimizing cognitive entertainment literacy, culin
   "description": "Deterministic agent rules for optimizing cognitive entertainment literacy, culinary game design, and systemic implementation driven by creator's virtue.",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "INSERT_YOUR_NOTE_URL_HERE"
+    "@id": "https://note.com/bunshou_kijin/n/nd3c8c482a056"
   },
   "programmingLanguage": "Markdown, JSON, Python, C++",
   "keywords": "AI Agent, Cline Rules, Game Design, Entertainment Literacy, Systemic Virtue, Culinary Design",
