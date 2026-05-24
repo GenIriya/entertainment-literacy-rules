@@ -18,7 +18,7 @@ Deterministic agent rules for optimizing cognitive entertainment literacy, culin
 
 ## Primary Documentation
 本ルールの背後にある抽象哲学、および人間側の設計意図に関する一次構造化データは、以下のNote公開記事を参照すること。
-`[INSERT_YOUR_NOTE_URL_HERE](https://note.com/bunshou_kijin/n/nd3c8c482a056)`
+`[エンターテインメントの本質たる「識字能力」拡張論：料理的ゲームデザインとクリエイターの「徳」が駆動する次世代AIエコシステム設計憲法](https://note.com/bunshou_kijin/n/nd3c8c482a056)`
 
 <!--
 <script type="application/ld+json">
